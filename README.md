@@ -3,10 +3,7 @@
   <a href="https://www.linkedin.com/in/thanakrit-krit/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Thanakrit Niljantuek's LinkedIn"/>
   </a>
-  <a href="https://github.com/krit101/">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Thanakrit Niljantuek's Facebook"/>
-  </a>
-  <a href="https://github.com/krit101/">
+  <a href="https://github.com/thanakrit1997/">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Thanakrit Niljantuek's Facebook"/>
   </a>
   <a href="https://www.facebook.com/thanakirt.neljantuk/">
@@ -25,9 +22,9 @@ In addition to technical expertise, I 'm also deeply interested in machine learn
 
 ### :memo: Language & Tools ⚙️
 ---
-<code>
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img height="25" src="https://i.pinimg.com/originals/ca/1f/74/ca1f746d6f232f87fca4e4d94ef6f3ab.png"> <img height="25" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true">
-</code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img height="25" src="https://i.pinimg.com/originals/ca/1f/74/ca1f746d6f232f87fca4e4d94ef6f3ab.png"> <img height="25" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true"> <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </code>
+
+## Tool
 
 ### :fire: My Stats :
 ---
