@@ -25,12 +25,12 @@ In addition to technical expertise, I 'm also deeply interested in machine learn
 ---
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> <img height="25" src="https://i.pinimg.com/originals/ca/1f/74/ca1f746d6f232f87fca4e4d94ef6f3ab.png"> <img height="25" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true"> <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"> <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </code>
 
-### Tools ⚙️
+### :gear: Tools :computer:
 ---
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> <img height="25" src="https://cdn.iconscout.com/icon/free/png-256/elasticsearch-226094.png"/> <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/> <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/> <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"/> <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> <img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUsGI9csCfC118xqkS0Vj5AQkU0FvoXM0vCC4L444&s"/> <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/> <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" /> <img height="25" src="https://cncf-branding.netlify.app/img/projects/argo/stacked/color/argo-stacked-color.png" /> <img height="25" src="https://miro.medium.com/max/700/1*qCXA0Ex9wlEMl8igYsOkhw.png"/> <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/> <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/> <img height="25" src="https://i0.wp.com/konghq.com/wp-content/uploads/2017/11/kong-community-team_512x512.png?ssl=1">
  </code>
 
-### Cloud provider 
+### :cloud: Cloud provider 
 ---
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> </code>
 
