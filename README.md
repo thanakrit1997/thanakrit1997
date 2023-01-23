@@ -37,9 +37,9 @@ In addition to technical expertise, I 'm also deeply interested in machine learn
 ### :fire: My Stats : (During migration from old GitHub)
 ---
 
-[![All Stats](https://github-readme-stats.vercel.app/api?username=krit101&show_icons=true&theme=react)](https://github.com/krit101)
+[![All Stats](https://github-readme-stats.vercel.app/api?username=thanakrit1997&show_icons=true&theme=react)](https://github.com/thanakrit1997)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krit101&layout=compact&theme=react)](https://github.com/krit101)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanakrit1997&layout=compact&theme=react)](https://github.com/thanakrit1997)
 <!---
 thanakrit1997/thanakrit1997  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
