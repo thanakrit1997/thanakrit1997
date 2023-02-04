@@ -17,9 +17,7 @@
 
 ### About Me
 ---
-👋 Hi I'm Thanakrit or krit, I'm DevOps Engineer passion for machine learning and AI. With experience in the field, make me knowledgeable in the latest technologies and best practices for managing and deploying software applications and has a deep understanding of cloud infrastructure, containerization, and automation, and is always looking for new ways to optimize and improve the delivery pipeline.
-
-In addition to technical expertise, I 'm also deeply interested in machine learning and AI and stays up-to-date on the latest developments and advancements in these fields, and is always looking for opportunities to incorporate these technologies into my work.
+👋 Hi I'm Thanakrit or krit
 
 ### :memo: Language
 ---
